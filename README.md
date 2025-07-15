@@ -1,7 +1,7 @@
 # Firefly III - personal finance manager
 
-- official page - https://www.firefly-iii.org/
-- github page - https://github.com/firefly-iii/firefly-iii
+- official page - [https://www.firefly-iii.org/](https://www.firefly-iii.org/)
+- github page - [https://github.com/firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
 
 ## Run the application
 
